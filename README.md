@@ -13,8 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/search/results/all/?fetchdeterministicclustersonly=true&heroentitykey=urn%3ali%3afsd_profile%3aacoaad8-_r4b99nwzy4j3jjblahsbvllrhcpsxy&keywords=alargam%20mohamed&origin=rich_query_suggestion&position=0&searchid=7a9b7bd3-1172-4db6-b13a-e25d9efa783c&sid=pqq&spellcorrectionenabled=false" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/search/results/all/?fetchdeterministicclustersonly=true&heroentitykey=urn%3ali%3afsd_profile%3aacoaad8-_r4b99nwzy4j3jjblahsbvllrhcpsxy&keywords=alargam%20mohamed&origin=rich_query_suggestion&position=0&searchid=7a9b7bd3-1172-4db6-b13a-e25d9efa783c&sid=pqq&spellcorrectionenabled=false" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/alargam_18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alargam_18/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alargam mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alargam mohamed" height="30" width="40" /></a>
+<a href="https://fb.com/alargam mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alargam mohamed" height="30" width="40" /></a>
+<a href="https://instagram.com/alargam_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alargam_18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
