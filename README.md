@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **AI, Embedded Systems**
 
-- 📫 How to reach me **https://www.instagram.com/alargam_18/?next=%2F**
+- 📫 How to reach me **alargammohamed80@gmail.com**
 
-- ⚡ Fun fact **Funny Person**
+- ⚡ **Funny Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
