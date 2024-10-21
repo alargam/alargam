@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/alargam-mohamed-2a6436257/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://https://www.instagram.com/alargam_18/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://https://https://www.facebook.com/Alargm.Mohammd?mibextid=ZbWKwL/"><img alt="facebook" src="https://img.shields.io/badge/Facebook">
 
 </p>
 
