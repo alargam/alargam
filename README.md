@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alargammohamed80@gmail.com**
 
-- ⚡ Fun fact **Fun man**
+- ⚡ **Fun man**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
