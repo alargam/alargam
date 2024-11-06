@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alargam mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alargam mohamed" height="30" width="40" /></a>
-<a href="https://fb.com/alargam mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alargam mohamed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alargam-mohamed-2a6436257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alargam mohamed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Alargm.Mohammd?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alargam mohamed" height="30" width="40" /></a>
 <a href="https://instagram.com/alargam_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alargam_18" height="30" width="40" /></a>
 </p>
 
