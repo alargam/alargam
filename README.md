@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alargam&label=Profile%20views&color=0e75b6&style=flat" alt="alargam" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/alargam](https://github.com/alargam)
-
 - 💬 Ask me about **AI, Embedded Systems**
 
 - 📫 How to reach me **alargammohamed80@gmail.com**
