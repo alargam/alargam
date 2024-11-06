@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alargam&label=Profile%20views&color=0e75b6&style=flat" alt="alargam" /> </p>
 
-- 💬 Ask me about **AI, Embedded Systems**
+- 💬 Ask me about **Python, Data Science, ML, DL, NLP, Computer Vision 🤖**
 
 - 📫 How to reach me **alargammohamed80@gmail.com**
 
