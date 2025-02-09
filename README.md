@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, Data Science, ML, DL, NLP, Computer Vision 🤖**
 
-- 📫 How to reach me **alargam999@gmail.com**
+- 📫 How to reach me **alargam.yagoub@gmail.com**
 
 - ⚡ **Fun man**
 
