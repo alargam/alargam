@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alargam Mohamed</h1>
-<h3 align="center">A passionate AI and Robotics developer from Sudan</h3>
+<h3 align="center">A AI and Robotics developer from Sudan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alargam&label=Profile%20views&color=0e75b6&style=flat" alt="alargam" /> </p>
 
