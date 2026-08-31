@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Backend, AI, Computer Vision & Robotics**
 
-- 📫 How to reach me: **alargam.yagoub@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
