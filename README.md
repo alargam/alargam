@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alargam Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Alargam Osman</h1>
 <h3 align="center">Software Engineer | Backend & AI Engineer</h3>
 
 <p align="left">
