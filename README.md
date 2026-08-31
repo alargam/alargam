@@ -1,50 +1,128 @@
 <h1 align="center">Hi 👋, I'm Alargam Mohamed</h1>
-<h3 align="center">AI and Robotics developer from Sudan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alargam&label=Profile%20views&color=0e75b6&style=flat" alt="alargam" /> </p>
+<h3 align="center">Software Engineer | Backend & AI Engineer</h3>
 
-- 💬 Ask me about **AI & Robotics🤖**
-
-- 📫 How to reach me **alargam.yagoub@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/alargam-osman-2a6436257/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+<p align="center">
+  Building backend systems, AI-powered applications, automation workflows, and intelligent software.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://alargam.vercel.app/">
+    <b>🌐 Portfolio</b>
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/alargamosman/">
+    <b>LinkedIn</b>
+  </a>
+  &nbsp;•&nbsp;
+  <a href="mailto:alargam.yagoub@gmail.com">
+    <b>Email</b>
+  </a>
+</p>
+
+---
+
+### About Me
+
+- 💻 Building backend applications with **Python & FastAPI**
+- 🗄️ Working with **PostgreSQL, SQLAlchemy & Alembic**
+- 🔐 Building REST APIs with **authentication, validation & database integration**
+- 🤖 Developing **AI-powered applications, LLM workflows & automation systems**
+- 👁️ Experience with **Computer Vision, PyTorch & OpenCV**
+- ⚙️ Background in **Robotics, ROS 2 & embedded systems**
+
+---
+
+### Backend Engineering
+
 <p align="left">
-<a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
 </a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+</a>
+
+<a href="https://www.sqlalchemy.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40" alt="SQLAlchemy"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</a>
+
 <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
 </a>
-<a href="https://docs.ros.org/en/jazzy/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ROS2" width="40" height="40" />
-</a>
-<a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
-</a>
-<a href="https://numpy.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40" />
-</a>
-<a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-</a>
-<a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />
-</a>
-<a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-</a>
-<a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-</a>
+
 </p>
+
+**Technologies:**  
+Python • FastAPI • REST APIs • PostgreSQL • SQLAlchemy • Alembic • Pydantic • JWT Authentication • API Integration • Pytest • Docker • Git • Linux
+
+---
+
+### AI & Machine Learning
+
+<p align="left">
+
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
+</a>
+
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/>
+</a>
+
+</p>
+
+**Technologies:**  
+PyTorch • TensorFlow • OpenCV • Computer Vision • YOLO • Deep Learning • LLMs • RAG • AI Agents • AI API Integration
+
+---
+
+### Automation
+
+**Technologies:**  
+n8n • REST APIs • Webhooks • OpenAI APIs • Google Sheets • WordPress
+
+---
+
+### Robotics & Embedded Systems
+
+<p align="left">
+
+<a href="https://docs.ros.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40" height="40" alt="ROS 2"/>
+</a>
+
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+</a>
+
+</p>
+
+**Technologies:**  
+ROS 2 • C++ • SLAM • Sensor Fusion • Autonomous Systems • Raspberry Pi • ESP32 • micro-ROS
+
+---
+
+### Portfolio
+
+🌐 **https://alargam.vercel.app/**
+
+Selected projects include backend APIs, AI systems, computer vision, automation, and robotics.
