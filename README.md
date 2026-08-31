@@ -13,8 +13,6 @@
 
 - 🌐 Portfolio: **https://alargam.vercel.app/**
 
-- 💬 Ask me about **Backend, AI, Computer Vision & Robotics**
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
